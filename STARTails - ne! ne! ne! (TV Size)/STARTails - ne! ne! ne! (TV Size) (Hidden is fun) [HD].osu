@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 62017
 Countdown: 0
-SampleSet: Soft
+SampleSet: None
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
@@ -27,7 +27,7 @@ Creator:Hidden is fun
 Version:HD
 Source:スロウスタート
 Tags:slow start opening 近藤玲奈 伊藤彩沙 嶺内ともみ 長縄まりあ 一之瀬花名  百地たまて 十倉栄依子 千石冠  sengoku kamuri momochi tamate ichinose hana tokura eiko naganawa maria itou ayasa kondou reina minuechi tomomi arcwinolivirus
-BeatmapID:2493932
+BeatmapID:2497629
 BeatmapSetID:1197264
 
 [Difficulty]
