@@ -1,4 +1,4 @@
-osu file format v14
+﻿osu file format v14
 
 [General]
 AudioFilename: audio.mp3
@@ -45,7 +45,6 @@ SliderTickRate:1
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
 //Storyboard Layer 3 (Foreground)
-//Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
 
 [TimingPoints]
