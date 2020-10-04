@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 188037
 Countdown: 0
-SampleSet: Soft
+SampleSet: None
 StackLeniency: 0.8
 Mode: 0
 LetterboxInBreaks: 0
@@ -40,7 +40,7 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"hiroesan.png"
+0,0,"hiroesan.png",0,0
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
@@ -68,11 +68,10 @@ SliderTickRate:1
 
 
 [Colours]
-Combo1 : 26,116,242
+Combo1 : 226,45,124
 Combo2 : 164,32,240
 Combo3 : 37,185,239
 Combo4 : 23,209,116
-Combo5 : 226,45,124
 
 [HitObjects]
 192,208,901,5,0,2:0:0:0:
