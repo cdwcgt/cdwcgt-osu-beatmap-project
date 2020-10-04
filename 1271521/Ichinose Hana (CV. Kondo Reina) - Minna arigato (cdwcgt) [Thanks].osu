@@ -9,7 +9,7 @@ SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
-WidescreenStoryboard: 0
+WidescreenStoryboard: 1
 
 [Editor]
 DistanceSpacing: 0.9
@@ -65,6 +65,10 @@ SliderTickRate:1
 291476,-100,4,2,1,50,0,1
 296770,-100,4,2,1,50,0,0
 
+
+[Colours]
+Combo1 : 143,234,100
+Combo2 : 244,156,134
 
 [HitObjects]
 111,159,171,5,0,0:0:0:0:
