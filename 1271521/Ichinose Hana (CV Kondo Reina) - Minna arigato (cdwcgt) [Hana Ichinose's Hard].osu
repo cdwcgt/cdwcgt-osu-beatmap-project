@@ -3,7 +3,7 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: 60989
+PreviewTime:60989
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
@@ -25,7 +25,7 @@ ArtistUnicode:一之瀬花名 (CV: 近藤玲奈)
 Creator:cdwcgt
 Version:Hana Ichinose's Hard
 Source:スロウスタート
-Tags:スロウスタート Slow Start 近藤玲奈 伊藤彩沙 一之瀬花名 ichinose hana Kondo Reina japanese Anime Hana Ichinose
+Tags:スロウスタート Slow Start 近藤玲奈 伊藤彩沙 一之瀬花名 hana ichinose Kondo Reina japanese Anime
 BeatmapID:2642522
 BeatmapSetID:1271521
 
@@ -39,7 +39,7 @@ SliderTickRate:1
 
 [Events]
 //Background and Video events
-0,0,"bg.png",0,0
+0,0,"bg.png"
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
@@ -49,8 +49,8 @@ SliderTickRate:1
 //Storyboard Sound Samples
 
 [TimingPoints]
-171.389092106362,545.454545454546,4,2,1,50,1,0
-171.389092106362,-133.333333333333,4,2,1,50,0,0
+171,545.454545454546,4,2,1,50,1,0
+171,-133.333333333333,4,2,1,50,0,0
 61262,-100,4,2,1,50,0,1
 83080,-100,4,2,1,50,0,0
 144171,-100,4,2,1,50,0,1
@@ -69,8 +69,9 @@ SliderTickRate:1
 
 
 [Colours]
-Combo1 : 197,235,136
-Combo2 : 245,164,144
+Combo1 : 242,235,94
+Combo2 : 244,156,134
+Combo3 : 143,234,100
 
 [HitObjects]
 144,144,171,5,0,0:0:0:0:
