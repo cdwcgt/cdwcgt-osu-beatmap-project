@@ -12,8 +12,8 @@ LetterboxInBreaks: 0
 WidescreenStoryboard: 1
 
 [Editor]
-DistanceSpacing: 1
-BeatDivisor: 3
+DistanceSpacing: 1.4
+BeatDivisor: 6
 GridSize: 16
 TimelineZoom: 1.1
 
