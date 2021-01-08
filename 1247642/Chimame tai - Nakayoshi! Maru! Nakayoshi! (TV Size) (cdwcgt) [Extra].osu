@@ -13,7 +13,7 @@ WidescreenStoryboard: 1
 
 [Editor]
 DistanceSpacing: 2
-BeatDivisor: 3
+BeatDivisor: 4
 GridSize: 4
 TimelineZoom: 1.8
 
