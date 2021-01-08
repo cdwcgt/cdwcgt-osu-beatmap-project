@@ -1,0 +1,116 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,Centre,"sb\f\_000.png",320.1287,412.1287
+ F,0,280,480,0,1
+ S,0,480,,0.5
+ F,0,2200,2400,1,0
+Sprite,Foreground,Centre,"sb\f\_001.png",320.1287,412.1287
+ F,0,2200,2400,0,1
+ S,0,2400,,0.5
+ F,0,4152,4352,1,0
+Sprite,Foreground,Centre,"sb\f\_002.png",320.1287,412.1287
+ F,0,4152,4352,0,1
+ S,0,4352,,0.5
+ F,0,6328,6528,1,0
+Sprite,Foreground,Centre,"sb\f\_003.png",320.1287,412.1287
+ F,0,6328,6528,0,1
+ S,0,6528,,0.5
+ F,0,7896,8096,1,0
+Sprite,Foreground,Centre,"sb\f\_004.png",320.1287,412.1287
+ F,0,7896,8096,0,1
+ S,0,8096,,0.5
+ F,0,11575,11775,1,0
+Sprite,Foreground,Centre,"sb\f\_005.png",320.1287,412.1287
+ F,0,11575,11775,0,1
+ S,0,11775,,0.5
+ F,0,15596,15796,1,0
+Sprite,Foreground,Centre,"sb\f\_006.png",320.1287,412.1287
+ F,0,15607,15807,0,1
+ S,0,15807,,0.5
+ F,0,19375,19575,1,0
+Sprite,Foreground,Centre,"sb\f\_007.png",320.1287,412.1287
+ F,0,19375,19575,0,1
+ S,0,19575,,0.5
+ F,0,23325,23525,1,0
+Sprite,Foreground,Centre,"sb\f\_008.png",320.1287,412.1287
+ F,0,23325,23525,0,1
+ S,0,23525,,0.5
+ F,0,27447,27647,1,0
+Sprite,Foreground,Centre,"sb\f\_009.png",320.1287,412.1287
+ F,0,27447,27647,0,1
+ S,0,27647,,0.5
+ F,0,31125,31325,1,0
+Sprite,Foreground,Centre,"sb\f\_00a.png",320.1287,412.1287
+ F,0,31125,31325,0,1
+ S,0,31325,,0.5
+ F,0,37600,37800,1,0
+Sprite,Foreground,Centre,"sb\f\_00b.png",320.1287,412.1287
+ F,0,39300,39500,0,1
+ S,0,39500,,0.5
+ F,0,40875,41075,1,0
+Sprite,Foreground,Centre,"sb\f\_00c.png",320.1287,412.1287
+ F,0,40875,41075,0,1
+ S,0,41075,,0.5
+ F,0,42787,42987,1,0
+Sprite,Foreground,Centre,"sb\f\_00d.png",320.1287,412.1287
+ F,0,42787,42987,0,1
+ S,0,42987,,0.5
+ F,0,44659,44859,1,0
+Sprite,Foreground,Centre,"sb\f\_00e.png",320.1287,412.1287
+ F,0,44659,44859,0,1
+ S,0,44859,,0.5
+ F,0,48157,48357,1,0
+Sprite,Foreground,Centre,"sb\f\_00f.png",320.1287,412.1287
+ F,0,48157,48357,0,1
+ S,0,48357,,0.5
+ F,0,52633,52833,1,0
+Sprite,Foreground,Centre,"sb\f\_010.png",320.1287,412.1287
+ F,0,52633,52833,0,1
+ S,0,52833,,0.5
+ F,0,56505,56705,1,0
+Sprite,Foreground,Centre,"sb\f\_00c.png",320.1287,412.1287
+ F,0,56505,56705,0,1
+ S,0,56705,,0.5
+ F,0,58225,58425,1,0
+Sprite,Foreground,Centre,"sb\f\_011.png",320.1287,412.1287
+ F,0,58225,58425,0,1
+ S,0,58425,,0.5
+ F,0,60191,60391,1,0
+Sprite,Foreground,Centre,"sb\f\_012.png",320.1287,412.1287
+ F,0,60191,60391,0,1
+ S,0,60391,,0.5
+ F,0,63850,64050,1,0
+Sprite,Foreground,Centre,"sb\f\_013.png",320.1287,412.1287
+ F,0,63850,64050,0,1
+ S,0,64050,,0.5
+ F,0,68004,68204,1,0
+Sprite,Foreground,Centre,"sb\f\_014.png",320.1287,412.1287
+ F,0,68004,68204,0,1
+ S,0,68204,,0.5
+ F,0,71595,71795,1,0
+Sprite,Foreground,Centre,"sb\f\_015.png",320.1287,412.1287
+ F,0,71595,71795,0,1
+ S,0,71795,,0.5
+ F,0,77689,77889,1,0
+Sprite,Foreground,Centre,"sb\f\_000.png",320.1287,412.1287
+ F,0,79539,79739,0,1
+ S,0,79739,,0.5
+ F,0,81689,81889,1,0
+Sprite,Foreground,Centre,"sb\f\_001.png",320.1287,412.1287
+ F,0,81689,81889,0,1
+ S,0,81889,,0.5
+ F,0,83641,83841,1,0
+Sprite,Foreground,Centre,"sb\f\_002.png",320.1287,412.1287
+ F,0,83641,83841,0,1
+ S,0,83841,,0.5
+ F,0,85721,85921,1,0
+Sprite,Foreground,Centre,"sb\f\_003.png",320.1287,412.1287
+ F,0,85721,85921,0,1
+ S,0,85921,,0.5
+ F,0,87385,87585,1,0
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
