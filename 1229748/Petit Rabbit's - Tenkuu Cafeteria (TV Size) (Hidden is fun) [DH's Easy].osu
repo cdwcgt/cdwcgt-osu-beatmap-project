@@ -49,142 +49,140 @@ Video,0,"op.mp4"
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
-Sample,10535,0,"Cymbal.wav",80
-Sample,10828,0,"Tom2.wav",80
-Sample,11120,0,"Tom3.wav",80
-Sample,11315,0,"Cymbal.wav",80
-Sample,11899,0,"Cymbal.wav",80
-Sample,12483,0,"Snare Normal.wav",80
-Sample,12483,0,"Cymbal.wav",80
-Sample,12483,0,"Tom2.wav",80
-Sample,12678,0,"Tom3.wav",80
-Sample,13068,0,"Snare Normal.wav",80
-Sample,13263,0,"Snare Normal.wav",80
-Sample,13457,0,"Snare Normal.wav",80
-Sample,13652,0,"Snare Normal.wav",80
-Sample,14821,0,"Snare Normal.wav",80
-Sample,15600,0,"Snare Normal.wav",80
-Sample,16380,0,"Snare Normal.wav",80
-Sample,17159,0,"Snare Normal.wav",80
-Sample,17938,0,"Snare Normal.wav",80
-Sample,18717,0,"Snare Normal.wav",80
-Sample,19886,0,"Cymbal.wav",80
-Sample,20276,0,"Snare Normal.wav",80
-Sample,21055,0,"Snare Normal.wav",80
-Sample,21834,0,"Snare Normal.wav",80
-Sample,22613,0,"Snare Normal.wav",80
-Sample,23393,0,"Snare Normal.wav",80
-Sample,23393,0,"Tom2.wav",80
-Sample,24561,0,"Snare Clap.wav",80
-Sample,24561,0,"Cymbal.wav",80
-Sample,24756,0,"Tom1.wav",80
-Sample,24951,0,"Tom2.wav",80
-Sample,25535,0,"Cymbal.wav",80
-Sample,25925,0,"Snare Clap.wav",80
-Sample,25925,0,"Cymbal.wav",80
-Sample,26120,0,"Snare Clap.wav",80
-Sample,26120,0,"Cymbal.wav",80
-Sample,31185,0,"Snare Normal.wav",80
-Sample,31964,0,"Snare Normal.wav",80
-Sample,32743,0,"Snare Normal.wav",80
-Sample,36639,0,"Snare Normal.wav",80
-Sample,37418,0,"Snare Normal.wav",80
-Sample,38003,0,"Cymbal.wav",80
-Sample,38393,0,"Snare Normal.wav",80
-Sample,38587,0,"Snare Normal.wav",80
-Sample,38782,0,"Drum.wav",90
-Sample,45990,0,"Snare Normal.wav",80
-Sample,46769,0,"Snare Normal.wav",80
-Sample,47548,0,"Snare Normal.wav",80
-Sample,48328,0,"Snare Normal.wav",80
-Sample,49107,0,"Snare Normal.wav",80
-Sample,50081,0,"Cymbal.wav",80
-Sample,51055,0,"Snare Normal.wav",80
-Sample,51444,0,"Snare Normal.wav",80
-Sample,51639,0,"Cymbal.wav",80
-Sample,52224,0,"Snare Normal.wav",80
-Sample,52613,0,"Snare Clap.wav",80
-Sample,53003,0,"Snare Normal.wav",80
-Sample,53393,0,"Cymbal.wav",80
-Sample,53782,0,"Snare Normal.wav",80
-Sample,54172,0,"Snare Clap.wav",80
-Sample,54561,0,"Snare Normal.wav",80
-Sample,54951,0,"Cymbal.wav",80
-Sample,55341,0,"Cymbal.wav",80
-Sample,55730,0,"Snare Normal.wav",80
-Sample,55730,0,"Cymbal.wav",80
-Sample,55925,0,"Tom1.wav",80
-Sample,56120,0,"Tom2.wav",80
-Sample,56315,0,"Snare Clap.wav",80
-Sample,56315,0,"Tom3.wav",80
-Sample,56704,0,"Snare Clap.wav",80
-Sample,56899,0,"Snare Clap.wav",80
-Sample,57289,0,"Snare Clap.wav",80
-Sample,57289,0,"Drum.wav",90
-Sample,57483,0,"Snare Clap.wav",80
-Sample,58457,0,"Snare Normal.wav",80
-Sample,59237,0,"Snare Normal.wav",80
-Sample,60795,0,"Snare Normal.wav",80
-Sample,61574,0,"Snare Normal.wav",80
-Sample,62354,0,"Snare Normal.wav",80
-Sample,63912,0,"Snare Normal.wav",80
-Sample,64302,0,"Cymbal.wav",80
-Sample,64691,0,"Snare Normal.wav",80
-Sample,65470,0,"Snare Normal.wav",80
-Sample,66250,0,"Snare Normal.wav",80
-Sample,67029,0,"Snare Normal.wav",80
-Sample,67808,0,"Snare Normal.wav",80
-Sample,68587,0,"Snare Normal.wav",80
-Sample,68977,0,"Cymbal.wav",80
-Sample,69172,0,"Snare Normal.wav",80
-Sample,69561,0,"Cymbal.wav",80
-Sample,69951,0,"Snare Clap.wav",80
-Sample,70146,0,"Snare Clap.wav",80
-Sample,70925,0,"Snare Normal.wav",80
-Sample,71704,0,"Snare Normal.wav",80
-Sample,73263,0,"Snare Normal.wav",80
-Sample,74042,0,"Snare Normal.wav",80
-Sample,74821,0,"Snare Normal.wav",80
-Sample,76380,0,"Drum.wav",90
-Sample,77159,0,"Snare Normal.wav",80
-Sample,78522,0,"Snare Clap.wav",80
-Sample,78717,0,"Snare Clap.wav",80
-Sample,79399,0,"Tom2.wav",80
-Sample,79691,0,"Tom3.wav",80
-Sample,79886,0,"Cymbal.wav",80
-Sample,80470,0,"Cymbal.wav",80
-Sample,81055,0,"Tom3.wav",80
-Sample,81250,0,"Cymbal.wav",80
-Sample,81639,0,"Snare Normal.wav",80
-Sample,81834,0,"Snare Normal.wav",80
-Sample,82029,0,"Snare Normal.wav",80
-Sample,82224,0,"Snare Normal.wav",80
-Sample,83393,0,"Snare Normal.wav",80
-Sample,84172,0,"Snare Normal.wav",80
-Sample,84951,0,"Snare Normal.wav",80
-Sample,85730,0,"Snare Normal.wav",80
-Sample,86899,0,"Cymbal.wav",80
-Sample,87094,0,"Snare Normal.wav",80
-Sample,87483,0,"Snare Normal.wav",80
-Sample,87483,0,"Cymbal.wav",80
-Sample,87483,0,"Snare Clap.wav",80
-Sample,87873,0,"Snare Clap.wav",80
-Sample,87873,0,"Snare Normal.wav",80
-Sample,88263,0,"Snare Clap.wav",80
-Sample,88263,0,"Snare Normal.wav",80
-Sample,88457,0,"Snare Clap.wav",80
-Sample,88457,0,"Snare Normal.wav",80
+Sample,10535,0,"Cymbal.wav",70
+Sample,10828,0,"Tom2.wav",70
+Sample,11120,0,"Tom3.wav",70
+Sample,11315,0,"Cymbal.wav",70
+Sample,11899,0,"Cymbal.wav",70
+Sample,12483,0,"Snare Normal.wav",70
+Sample,12483,0,"Cymbal.wav",70
+Sample,12483,0,"Tom2.wav",70
+Sample,12678,0,"Tom3.wav",70
+Sample,13068,0,"Snare Normal.wav",70
+Sample,13263,0,"Snare Normal.wav",70
+Sample,13457,0,"Snare Normal.wav",70
+Sample,13652,0,"Snare Normal.wav",70
+Sample,14821,0,"Snare Normal.wav",70
+Sample,15600,0,"Snare Normal.wav",70
+Sample,16380,0,"Snare Normal.wav",70
+Sample,17159,0,"Snare Normal.wav",70
+Sample,17938,0,"Snare Normal.wav",70
+Sample,18717,0,"Snare Normal.wav",70
+Sample,19886,0,"Cymbal.wav",70
+Sample,20276,0,"Snare Normal.wav",70
+Sample,21055,0,"Snare Normal.wav",70
+Sample,21834,0,"Snare Normal.wav",70
+Sample,22613,0,"Snare Normal.wav",70
+Sample,23393,0,"Snare Normal.wav",70
+Sample,23393,0,"Tom2.wav",70
+Sample,24561,0,"Snare Clap.wav",70
+Sample,24561,0,"Cymbal.wav",70
+Sample,24756,0,"Tom1.wav",70
+Sample,24951,0,"Tom2.wav",70
+Sample,25535,0,"Cymbal.wav",70
+Sample,25925,0,"Snare Clap.wav",70
+Sample,25925,0,"Cymbal.wav",70
+Sample,26120,0,"Snare Clap.wav",70
+Sample,26120,0,"Cymbal.wav",70
+Sample,31185,0,"Snare Normal.wav",70
+Sample,31964,0,"Snare Normal.wav",70
+Sample,32743,0,"Snare Normal.wav",70
+Sample,36639,0,"Snare Normal.wav",70
+Sample,37418,0,"Snare Normal.wav",70
+Sample,38003,0,"Cymbal.wav",70
+Sample,38393,0,"Snare Normal.wav",70
+Sample,38587,0,"Snare Normal.wav",70
+Sample,38782,0,"Drum.wav",70
+Sample,45990,0,"Snare Normal.wav",70
+Sample,46769,0,"Snare Normal.wav",70
+Sample,47548,0,"Snare Normal.wav",70
+Sample,48328,0,"Snare Normal.wav",70
+Sample,49107,0,"Snare Normal.wav",70
+Sample,50081,0,"Cymbal.wav",70
+Sample,51055,0,"Snare Normal.wav",70
+Sample,51444,0,"Snare Normal.wav",70
+Sample,51639,0,"Cymbal.wav",70
+Sample,52224,0,"Snare Normal.wav",70
+Sample,52613,0,"Snare Clap.wav",70
+Sample,53003,0,"Snare Normal.wav",70
+Sample,53393,0,"Cymbal.wav",70
+Sample,53782,0,"Snare Normal.wav",70
+Sample,54172,0,"Snare Clap.wav",70
+Sample,54561,0,"Snare Normal.wav",70
+Sample,54951,0,"Cymbal.wav",70
+Sample,55341,0,"Cymbal.wav",70
+Sample,55730,0,"Snare Normal.wav",70
+Sample,55730,0,"Cymbal.wav",70
+Sample,55925,0,"Tom1.wav",70
+Sample,56120,0,"Tom2.wav",70
+Sample,56315,0,"Snare Clap.wav",70
+Sample,56315,0,"Tom3.wav",70
+Sample,56704,0,"Snare Clap.wav",70
+Sample,56899,0,"Snare Clap.wav",70
+Sample,57289,0,"Snare Clap.wav",70
+Sample,57289,0,"Drum.wav",70
+Sample,57483,0,"Snare Clap.wav",70
+Sample,58457,0,"Snare Normal.wav",70
+Sample,59237,0,"Snare Normal.wav",70
+Sample,60795,0,"Snare Normal.wav",70
+Sample,61574,0,"Snare Normal.wav",70
+Sample,62354,0,"Snare Normal.wav",70
+Sample,63912,0,"Snare Normal.wav",70
+Sample,64691,0,"Snare Normal.wav",70
+Sample,65470,0,"Snare Normal.wav",70
+Sample,66250,0,"Snare Normal.wav",70
+Sample,67029,0,"Snare Normal.wav",70
+Sample,67808,0,"Snare Normal.wav",70
+Sample,68587,0,"Snare Normal.wav",70
+Sample,68977,0,"Cymbal.wav",70
+Sample,69172,0,"Snare Normal.wav",70
+Sample,69561,0,"Cymbal.wav",70
+Sample,69951,0,"Snare Clap.wav",70
+Sample,70146,0,"Snare Clap.wav",70
+Sample,70925,0,"Snare Normal.wav",70
+Sample,71704,0,"Snare Normal.wav",70
+Sample,73263,0,"Snare Normal.wav",70
+Sample,74042,0,"Snare Normal.wav",70
+Sample,74821,0,"Snare Normal.wav",70
+Sample,76380,0,"Drum.wav",70
+Sample,77159,0,"Snare Normal.wav",70
+Sample,78522,0,"Snare Clap.wav",70
+Sample,78717,0,"Snare Clap.wav",70
+Sample,79399,0,"Tom2.wav",70
+Sample,79691,0,"Tom3.wav",70
+Sample,79886,0,"Cymbal.wav",70
+Sample,80470,0,"Cymbal.wav",70
+Sample,81055,0,"Tom3.wav",70
+Sample,81250,0,"Cymbal.wav",70
+Sample,81639,0,"Snare Normal.wav",70
+Sample,81834,0,"Snare Normal.wav",70
+Sample,82029,0,"Snare Normal.wav",70
+Sample,82224,0,"Snare Normal.wav",70
+Sample,83393,0,"Snare Normal.wav",70
+Sample,84172,0,"Snare Normal.wav",70
+Sample,84951,0,"Snare Normal.wav",70
+Sample,85730,0,"Snare Normal.wav",70
+Sample,86899,0,"Cymbal.wav",70
+Sample,87094,0,"Snare Normal.wav",70
+Sample,87483,0,"Snare Normal.wav",70
+Sample,87483,0,"Cymbal.wav",70
+Sample,87873,0,"Snare Clap.wav",70
+Sample,87873,0,"Snare Normal.wav",70
+Sample,88263,0,"Snare Clap.wav",70
+Sample,88263,0,"Snare Normal.wav",70
+Sample,88457,0,"Snare Clap.wav",70
+Sample,88457,0,"Snare Normal.wav",70
 
 [TimingPoints]
-406,389.61038961039,4,2,1,80,1,0
-14431,-100,4,2,1,80,0,1
-26899,-100,4,2,1,80,0,0
-57873,-100,4,2,1,80,0,1
-70146,-100,4,2,1,80,0,0
-70341,-100,4,2,1,80,0,1
-82613,-100,4,2,1,80,0,0
-83003,-100,4,2,1,80,0,1
-88457,-100,4,2,1,80,0,0
+406,389.61038961039,4,2,1,50,1,0
+14431,-100,4,2,1,50,0,1
+26899,-100,4,2,1,50,0,0
+57873,-100,4,2,1,50,0,1
+70146,-100,4,2,1,50,0,0
+70341,-100,4,2,1,50,0,1
+82613,-100,4,2,1,50,0,0
+83003,-100,4,2,1,50,0,1
+88457,-100,4,2,1,50,0,0
 
 
 [HitObjects]
@@ -382,19 +380,22 @@ Sample,88457,0,"Snare Normal.wav",80
 192,192,58457,1,0,0:0:0:70:Snare Clap.wav
 320,192,58847,1,0,0:0:0:70:Kick.wav
 64,192,59237,1,0,0:0:0:70:Snare Clap.wav
-448,192,59626,128,0,60211:0:0:0:70:Kick.wav
-192,192,60211,128,0,60795:0:0:0:70:
+192,192,59626,128,0,60016:0:0:0:70:Kick.wav
+320,192,60211,128,0,60600:0:0:0:70:
+64,192,60600,1,0,0:0:0:70:
 64,192,60795,1,0,0:0:0:70:Snare Clap.wav
 320,192,60990,1,0,0:0:0:70:Cymbal.wav
 448,192,60990,128,0,61574:0:0:0:70:
 192,192,61574,1,0,0:0:0:70:Snare Clap.wav
 64,192,61964,1,0,0:0:0:70:Kick.wav
 320,192,62354,1,0,0:0:0:70:Snare Clap.wav
-192,192,62743,128,0,63328:0:0:0:70:Kick.wav
-448,192,63328,128,0,63912:0:0:0:70:
+192,192,62743,128,0,63133:0:0:0:70:Kick.wav
+448,192,63328,128,0,63717:0:0:0:70:
+64,192,63717,1,0,0:0:0:70:
 64,192,63912,1,0,0:0:0:70:Snare Clap.wav
 320,192,64107,1,0,0:0:0:70:
-192,192,64302,128,0,64691:0:0:0:70:Kick.wav
+64,192,64302,1,0,0:0:0:70:Kick.wav
+192,192,64302,128,0,64691:0:0:0:70:Cymbal.wav
 448,192,64691,1,0,0:0:0:70:Snare Clap.wav
 64,192,65081,1,0,0:0:0:70:Kick.wav
 192,192,65470,1,0,0:0:0:70:Snare Clap.wav
@@ -422,25 +423,27 @@ Sample,88457,0,"Snare Normal.wav",80
 192,192,70925,1,0,0:0:0:70:Snare Clap.wav
 320,192,71315,1,0,0:0:0:70:Kick.wav
 64,192,71704,1,0,0:0:0:70:Snare Clap.wav
-448,192,72094,128,0,72678:0:0:0:70:Kick.wav
-192,192,72678,128,0,73263:0:0:0:70:
-64,192,73263,1,0,0:0:0:70:Snare Clap.wav
-320,192,73457,1,0,0:0:0:70:Cymbal.wav
-448,192,73457,128,0,74042:0:0:0:70:
-192,192,74042,1,0,0:0:0:70:Snare Clap.wav
+320,192,72094,128,0,72483:0:0:0:70:Kick.wav
+192,192,72678,128,0,73068:0:0:0:70:
+448,192,73068,1,0,0:0:0:70:
+448,192,73263,1,0,0:0:0:70:Snare Clap.wav
+192,192,73457,1,0,0:0:0:70:Cymbal.wav
+64,192,73457,128,0,74042:0:0:0:70:
+320,192,74042,1,0,0:0:0:70:Snare Clap.wav
 64,192,74431,1,0,0:0:0:70:Kick.wav
-320,192,74821,1,0,0:0:0:70:Snare Clap.wav
-64,192,75211,1,0,0:0:0:70:Kick.wav
-192,192,75211,128,0,75795:0:0:0:70:Cymbal.wav
-320,192,75795,1,0,0:0:0:70:Cymbal.wav
-448,192,75795,128,0,76380:0:0:0:70:
-64,192,76380,1,0,0:0:0:70:Kick.wav
-320,192,76574,1,0,0:0:0:70:Tom2.wav
-64,192,76769,1,0,0:0:0:70:Kick.wav
-192,192,76769,128,0,77159:0:0:0:70:Cymbal.wav
-448,192,77159,1,0,0:0:0:70:Snare Clap.wav
-64,192,77354,1,0,0:0:0:70:Kick.wav
-320,192,77354,1,0,0:0:0:70:Snare Clap.wav
+192,192,74821,1,0,0:0:0:70:Snare Clap.wav
+448,192,75211,1,0,0:0:0:70:Kick.wav
+320,192,75211,128,0,75600:0:0:0:70:Cymbal.wav
+192,192,75795,1,0,0:0:0:70:Cymbal.wav
+64,192,75795,128,0,76185:0:0:0:70:
+448,192,76185,1,0,0:0:0:70:
+448,192,76380,1,0,0:0:0:70:Kick.wav
+192,192,76574,1,0,0:0:0:70:Tom2.wav
+448,192,76769,1,0,0:0:0:70:Kick.wav
+320,192,76769,128,0,77159:0:0:0:70:Cymbal.wav
+64,192,77159,1,0,0:0:0:70:Snare Clap.wav
+448,192,77354,1,0,0:0:0:70:Kick.wav
+192,192,77354,1,0,0:0:0:70:Snare Clap.wav
 64,192,77743,1,0,0:0:0:70:Kick.wav
 192,192,77938,1,0,0:0:0:70:Snare Normal.wav
 320,192,78133,128,0,78522:0:0:0:70:Kick.wav
@@ -479,6 +482,7 @@ Sample,88457,0,"Snare Normal.wav",80
 320,192,87094,1,0,0:0:0:70:Kick.wav
 448,192,87289,1,0,0:0:0:70:Kick.wav
 64,192,87483,1,0,0:0:0:70:Kick.wav
+192,192,87483,1,0,0:0:0:70:Snare Clap.wav
 320,192,87873,1,0,0:0:0:70:Kick.wav
 192,192,88263,1,0,0:0:0:70:Kick.wav
 448,192,88457,1,0,0:0:0:70:Kick.wav

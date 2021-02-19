@@ -26,7 +26,7 @@ ArtistUnicode:Petit Rabbit's
 Creator:Hidden is fun
 Version:cdwcgt's Normal?
 Source:ご注文はうさぎですか？ BLOOM
-Tags:op opening anime japanese pop jpop j-pop GNCA-0621 Gochuumon wa Usagi Desu ka Is the Order a Rabbit Rabbits House gochiusa ごちうさ BLOOM 3rd Third Season Theme dudehacker drum-hitnormal cdwcgt ML-ysg ココア Hoto Cocoa Kokoa 佐倉綾音 Sakura Ayane あやねる Ayaneru チノ Kafuu Chino 水瀬いのり Minase Inori いのりん Inorin リゼ Tedeza Rize 種田梨沙 Taneda Risa たねちゃん Tanechan 千夜 Ujimatsu Chiya 佐藤聡美 Satou Hoshikawa Satomi シャロ Kirima Syaro Sharo 内田真礼 Uchida Maaya 星川サラ
+Tags:op opening anime japanese pop jpop j-pop GNCA-0621 Gochuumon wa Usagi Desu ka Is the Order a Rabbit Rabbits House gochiusa ごちうさ BLOOM 3rd Third Season Theme dudehacker drum-hitnormal cdwcgt ML-ysg ココア Hoto Cocoa Kokoa 佐倉綾音 Sakura Ayane あやねる Ayaneru チノ Kafuu Chino 水瀬いのり Minase Inori いのりん Inorin リゼ Tedeza Rize 種田梨沙 Taneda Risa たねちゃん Tanechan 千夜 Ujimatsu Chiya 佐藤聡美 Satou Hoshikawa Satomi シャロ Kirima Syaro Sharo 内田真礼 Uchida Maaya 星川サラ
 BeatmapID:2556909
 BeatmapSetID:1229748
 
@@ -49,44 +49,44 @@ Video,0,"op.mp4"
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
-Sample,12289,0,"Tom1.wav",80
-Sample,12483,0,"Tom2.wav",80
-Sample,12483,0,"Snare Normal.wav",80
-Sample,12483,0,"Cymbal.wav",80
-Sample,20276,0,"Snare Normal.wav",80
-Sample,23393,0,"Tom2.wav",80
-Sample,24561,0,"Cymbal.wav",80
-Sample,25535,0,"Cymbal.wav",80
-Sample,25925,0,"Cymbal.wav",80
-Sample,26120,0,"Cymbal.wav",80
-Sample,32743,0,"Snare Normal.wav",80
-Sample,36250,0,"Cymbal.wav",80
-Sample,38003,0,"Cymbal.wav",80
-Sample,38782,0,"Drum.wav",90
-Sample,46769,0,"Snare Normal.wav",80
-Sample,50081,0,"Cymbal.wav",80
-Sample,52613,0,"Snare Clap.wav",80
-Sample,53393,0,"Cymbal.wav",80
-Sample,54951,0,"Cymbal.wav",80
-Sample,55341,0,"Cymbal.wav",80
-Sample,55730,0,"Cymbal.wav",80
-Sample,55730,0,"Snare Normal.wav",80
-Sample,56315,0,"Tom3.wav",80
-Sample,57289,0,"Drum.wav",90
-Sample,60016,0,"Snare Normal.wav",80
-Sample,63133,0,"Snare Normal.wav",80
-Sample,65470,0,"Snare Normal.wav",80
-Sample,69951,0,"Snare Clap.wav",80
-Sample,72483,0,"Snare Normal.wav",80
-Sample,75600,0,"Snare Normal.wav",80
-Sample,77159,0,"Snare Normal.wav",80
-Sample,80860,0,"Snare Normal.wav",80
-Sample,86120,0,"Cymbal.wav",80
-Sample,87483,0,"Snare Normal.wav",80
-Sample,87483,0,"Cymbal.wav",80
-Sample,87873,0,"Snare Normal.wav",80
-Sample,88263,0,"Snare Normal.wav",80
-Sample,88457,0,"Snare Normal.wav",80
+Sample,12289,0,"Tom1.wav",70
+Sample,12483,0,"Cymbal.wav",70
+Sample,12483,0,"Tom2.wav",70
+Sample,12483,0,"Snare Normal.wav",70
+Sample,20276,0,"Snare Normal.wav",70
+Sample,23393,0,"Tom2.wav",70
+Sample,24561,0,"Cymbal.wav",70
+Sample,25535,0,"Cymbal.wav",70
+Sample,25925,0,"Cymbal.wav",70
+Sample,26120,0,"Cymbal.wav",70
+Sample,32743,0,"Snare Normal.wav",70
+Sample,36250,0,"Cymbal.wav",70
+Sample,38003,0,"Cymbal.wav",70
+Sample,38782,0,"Drum.wav",70
+Sample,46769,0,"Snare Normal.wav",70
+Sample,50081,0,"Cymbal.wav",70
+Sample,52613,0,"Snare Clap.wav",70
+Sample,53393,0,"Cymbal.wav",70
+Sample,54951,0,"Cymbal.wav",70
+Sample,55341,0,"Cymbal.wav",70
+Sample,55730,0,"Snare Normal.wav",70
+Sample,55730,0,"Cymbal.wav",70
+Sample,56315,0,"Tom3.wav",70
+Sample,57289,0,"Drum.wav",70
+Sample,60016,0,"Snare Normal.wav",70
+Sample,63133,0,"Snare Normal.wav",70
+Sample,65470,0,"Snare Normal.wav",70
+Sample,69951,0,"Snare Clap.wav",70
+Sample,72483,0,"Snare Normal.wav",70
+Sample,75600,0,"Snare Normal.wav",70
+Sample,77159,0,"Snare Normal.wav",70
+Sample,80860,0,"Snare Normal.wav",70
+Sample,86120,0,"Cymbal.wav",70
+Sample,87483,0,"Snare Normal.wav",70
+Sample,87483,0,"Cymbal.wav",70
+Sample,87873,0,"Snare Normal.wav",70
+Sample,88263,0,"Snare Normal.wav",70
+Sample,88457,0,"Snare Normal.wav",70
 
 [TimingPoints]
 406,389.61038961039,4,2,1,50,1,0
