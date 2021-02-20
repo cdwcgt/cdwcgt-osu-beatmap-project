@@ -3,7 +3,7 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: 58011
+PreviewTime:58011
 Countdown: 0
 SampleSet: Normal
 StackLeniency: 0.4
@@ -26,7 +26,7 @@ ArtistUnicode:Petit Rabbit's
 Creator:cdwcgt
 Version:Muz's Dance Dance!
 Source:ご注文はうさぎですか？ BLOOM
-Tags:ご注文はうさぎですか？ BLOOM Petit Rabbit's チノ chino 水瀬いのり minase inori ココア cocoa 佐倉綾音 sakura ayane リゼ rize 種田梨沙 taneda risa 千夜 chiya 佐藤聡美 satou satomi シャロ syaro 内田真礼 uchida maaya 奈津惠 natsumegu murakawa rie 村川梨衣 条河麻耶 jyougamaya tokui sora 徳井青空 速水奨 Hayami Shou 清川元夢 Kiyokawa Motomu モカ mocha 茅野愛衣 kayano ai 青山ブルーマウンテン aoyama blue mountain 早見沙織 hayami saori Is the Order a Rabbit ? Gochuumon wa Usagi Desu ka? opening 天空咖啡馆 请问你要来点兔子吗 点兔 智乃 心爱 纱路 理世 摩卡 japanese anime Hidden_is_fun papple hidden is fun Kyle Y
+Tags:チノ,chino,水瀬いのり,minase inori,ココア,cocoa,佐倉綾音,sakura ayane,リゼ,rize,種田梨沙,taneda risa,千夜,chiya,佐藤聡美,satou satomi,シャロ,syaro,内田真礼,uchida maaya,Is the Order a Rabbit ?,Gochuumon wa Usagi Desu ka?,opening,天空咖啡馆,请问你要来点兔子吗,点兔,智乃,心爱,纱路,理世,摩卡,点兔,japanese,anime,Hidden is fun,papple,Kyle Y,muzuyami
 BeatmapID:2805586
 BeatmapSetID:1228813
 
@@ -86,11 +86,11 @@ SliderTickRate:1
 
 
 [Colours]
-Combo1 : 138,176,237
-Combo2 : 251,210,214
-Combo3 : 250,215,148
-Combo4 : 166,231,204
-Combo5 : 145,129,199
+Combo1 : 145,129,199
+Combo2 : 138,176,237
+Combo3 : 251,210,214
+Combo4 : 250,215,148
+Combo5 : 166,231,204
 
 [HitObjects]
 80,160,2005,5,2,0:0:0:0:
@@ -203,7 +203,7 @@ Combo5 : 145,129,199
 358,37,28109,2,0,L|353:139,1,100,8|0,0:0|0:0,0:0:0:0:
 251,233,28498,1,0,3:0:0:0:
 165,121,28693,2,0,P|213:113|262:149,1,100,0|8,0:0|0:0,0:0:0:0:
-347,237,29083,6,0,P|276:258|243:326,1,150,0|0,0:0|0:0,0:0:0:0:
+347,237,29083,6,0,P|276:258|243:326,1,150
 247,362,29472,1,0,0:0:0:0:
 431,381,29667,1,8,0:0:0:0:
 343,333,29862,1,0,0:0:0:0:
@@ -774,7 +774,7 @@ Combo5 : 145,129,199
 32,384,161745,6,0,B|47:337|47:337|36:214,1,150,4|0,0:2|0:0,0:0:0:0:
 32,196,162135,1,8,0:0:0:0:
 188,143,162329,1,4,3:0:0:0:
-188,143,162427,2,0,B|150:132|150:132|91:142,1,100,0|0,0:0|0:0,0:0:0:0:
+188,143,162427,2,0,B|150:132|150:132|91:142,1,100
 14,123,162719,2,0,L|8:58,2,50,4|0|8,3:0|0:0|0:0,0:0:0:0:
 110,217,163109,2,0,B|148:228|148:228|207:218,1,100,4|0,3:0|0:0,0:0:0:0:
 265,113,163498,5,0,3:0:0:0:
