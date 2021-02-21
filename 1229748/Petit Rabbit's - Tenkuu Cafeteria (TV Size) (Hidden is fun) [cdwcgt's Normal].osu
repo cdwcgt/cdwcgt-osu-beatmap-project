@@ -41,7 +41,7 @@ SliderTickRate:1
 [Events]
 //Background and Video events
 0,0,"Chino.jpg",0,0
-Video,0,"op.mp4"
+Video,100,"op.mp4"
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
