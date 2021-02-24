@@ -81,7 +81,6 @@ Sample,72483,0,"Snare Normal.wav",70
 Sample,75600,0,"Snare Normal.wav",70
 Sample,77159,0,"Snare Normal.wav",70
 Sample,80860,0,"Snare Normal.wav",70
-Sample,86120,0,"Cymbal.wav",70
 Sample,87483,0,"Cymbal.wav",70
 Sample,87483,0,"Snare Normal.wav",70
 Sample,87873,0,"Snare Normal.wav",70
@@ -661,6 +660,7 @@ Sample,88457,0,"Snare Normal.wav",70
 320,192,85730,1,0,0:0:0:70:Snare Clap.wav
 448,192,85730,1,0,0:0:0:70:Snare Normal.wav
 192,192,86120,1,0,0:0:0:70:Kick.wav
+64,192,86120,1,0,0:0:0:0:
 320,192,86315,1,0,0:0:0:70:
 192,192,86509,1,0,0:0:0:70:Snare Clap.wav
 448,192,86509,1,0,0:0:0:70:Snare Normal.wav
