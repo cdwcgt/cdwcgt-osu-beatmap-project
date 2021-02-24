@@ -1,0 +1,108 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 5352
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 8
+TimelineZoom: 1.7
+
+[Metadata]
+Title:ne! ne! ne!
+TitleUnicode:ne! ne! ne!
+Artist:STARTails*
+ArtistUnicode:STARTails☆
+Creator:cdwcgt
+Version:Shiawase
+Source:スロウスタート
+Tags:slow start opening op full size version 近藤玲奈 伊藤彩沙 嶺内ともみ 長縄まりあ 一之瀬花名  百地たまて 十倉栄依子 千石冠 sengoku kamuri momochi tamate ichinose hana tokura eiko naganawa maria itou ayasa kondou reina minuechi tomomi shockolatte deppyforce akitoshi corinn -_matha_- -_Frontier_- Petal anime japanese
+BeatmapID:0
+BeatmapSetID:1342130
+
+[Difficulty]
+HPDrainRate:6.5
+CircleSize:4
+OverallDifficulty:6.7
+ApproachRate:9
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"hana.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+411,352.941176470588,4,2,1,50,1,0
+411,-125,4,2,1,50,0,0
+763,-100,4,2,1,50,0,0
+4469,-90.9090909090909,4,2,1,50,0,0
+4822,-100,4,2,1,50,0,0
+62352,-100,4,2,1,70,0,1
+73293,-100,4,2,1,70,0,0
+73646,-100,4,2,1,70,0,1
+79469,-100,4,2,1,60,0,0
+82116,-100,4,2,1,70,0,1
+86352,-100,4,2,1,50,0,0
+138587,-100,4,2,1,70,0,1
+155705,-100,4,2,1,60,0,0
+158352,-100,4,2,1,70,0,1
+162587,-100,4,2,1,60,0,0
+207763,-100,4,2,1,50,0,0
+209175,-100,4,2,1,70,0,1
+229072,352.941176470588,4,2,1,70,1,1
+229072,-100,4,2,1,70,0,1
+230571,-100,4,2,1,5,0,1
+230660,-100,4,2,1,70,0,1
+230704,352.941176470588,4,2,1,50,1,0
+230704,-100,4,2,1,70,0,1
+231233,352.941176470588,4,2,1,70,1,0
+236703,-100,4,2,1,60,0,1
+242350,-100,4,2,1,60,0,0
+
+
+[Colours]
+Combo1 : 172,138,90
+Combo2 : 254,182,171
+Combo3 : 111,70,64
+Combo4 : 239,207,230
+
+[HitObjects]
+425,114,411,6,0,B|380:145|380:145|355:212,1,112
+338,243,940,1,0,0:0:0:0:
+230,178,1116,2,0,L|156:241,2,70
+247,88,1646,2,0,P|321:70|371:20,1,140
+389,130,2175,2,0,L|463:170,1,70
+324,179,2528,1,0,0:0:0:0:
+242,307,2704,1,8,0:1:0:0:
+193,123,2881,1,8,0:1:0:0:
+118,21,3234,6,0,L|38:54,1,70
+41,142,3587,2,0,L|125:107,1,70
+4,210,3940,1,0,0:0:0:0:
+96,336,4116,1,0,0:0:0:0:
+197,164,4293,1,0,0:0:0:0:
+232,248,4469,2,0,B|219:322|282:361|346:328,1,154.000004699707
+328,240,4999,2,0,L|384:184,1,70
+431,123,5352,1,0,0:0:0:0:
+444,97,5440,1,0,0:0:0:0:
+456,72,5528,1,0,0:0:0:0:
+432,55,5616,1,0,0:0:0:0:
+406,42,5704,1,0,0:0:0:0:
+378,34,5793,1,0,0:0:0:0:
+349,30,5881,1,0,0:0:0:0:
