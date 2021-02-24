@@ -13,10 +13,11 @@ SpecialStyle: 0
 WidescreenStoryboard: 1
 
 [Editor]
+Bookmarks: 11315,79886
 DistanceSpacing: 0.7
 BeatDivisor: 4
 GridSize: 16
-TimelineZoom: 1.3
+TimelineZoom: 1.4
 
 [Metadata]
 Title:Tenkuu Cafeteria (TV Size)
@@ -51,8 +52,8 @@ Video,100,"op.mp4"
 //Storyboard Sound Samples
 Sample,12289,0,"Tom1.wav",70
 Sample,12483,0,"Snare Normal.wav",70
-Sample,12483,0,"Cymbal.wav",70
 Sample,12483,0,"Tom2.wav",70
+Sample,12483,0,"Cymbal.wav",70
 Sample,20276,0,"Snare Normal.wav",70
 Sample,23393,0,"Tom2.wav",70
 Sample,24561,0,"Cymbal.wav",70
@@ -82,8 +83,8 @@ Sample,75600,0,"Snare Normal.wav",70
 Sample,77159,0,"Snare Normal.wav",70
 Sample,80860,0,"Snare Normal.wav",70
 Sample,86120,0,"Cymbal.wav",70
-Sample,87483,0,"Snare Normal.wav",70
 Sample,87483,0,"Cymbal.wav",70
+Sample,87483,0,"Snare Normal.wav",70
 Sample,87873,0,"Snare Normal.wav",70
 Sample,88263,0,"Snare Normal.wav",70
 Sample,88457,0,"Snare Normal.wav",70
@@ -617,8 +618,10 @@ Sample,88457,0,"Snare Normal.wav",70
 448,192,79691,1,0,0:0:0:70:Tom3.wav
 192,192,79886,1,0,0:0:0:70:Kick.wav
 320,192,79886,128,0,80470:0:0:0:70:Cymbal.wav
-64,192,80470,128,0,80860:0:0:0:70:Kick.wav
-448,192,80470,1,0,0:0:0:70:Cymbal.wav
+64,192,80081,1,0,0:0:0:0:
+448,192,80276,1,0,0:0:0:0:
+64,192,80470,1,0,0:0:0:70:Cymbal.wav
+192,192,80470,128,0,80860:0:0:0:70:Kick.wav
 320,192,80860,1,0,0:0:0:70:Snare Clap.wav
 64,192,81055,1,0,0:0:0:70:Kick.wav
 192,192,81055,1,0,0:0:0:70:Tom3.wav
