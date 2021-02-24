@@ -16,7 +16,7 @@ WidescreenStoryboard: 1
 DistanceSpacing: 0.7
 BeatDivisor: 4
 GridSize: 16
-TimelineZoom: 1.1
+TimelineZoom: 0.5999999
 
 [Metadata]
 Title:Tenkuu Cafeteria (TV Size)
@@ -50,9 +50,9 @@ Video,100,"op.mp4"
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
 Sample,12289,0,"Tom1.wav",70
-Sample,12483,0,"Cymbal.wav",70
 Sample,12483,0,"Tom2.wav",70
 Sample,12483,0,"Snare Normal.wav",70
+Sample,12483,0,"Cymbal.wav",70
 Sample,20276,0,"Snare Normal.wav",70
 Sample,23393,0,"Tom2.wav",70
 Sample,24561,0,"Cymbal.wav",70
@@ -132,29 +132,29 @@ Sample,88457,0,"Snare Normal.wav",70
 192,192,7224,1,0,0:0:0:70:
 448,192,7224,128,0,7613:0:0:0:70:
 64,192,8198,1,0,0:0:0:70:Kick.wav
-192,192,8198,1,0,0:0:0:70:Cymbal.wav
-320,192,8587,1,0,0:0:0:70:Snare Normal.wav
+448,192,8198,1,0,0:0:0:70:Cymbal.wav
+192,192,8587,1,0,0:0:0:70:Snare Normal.wav
 64,192,8782,1,0,0:0:0:70:Kick.wav
-192,192,8782,1,0,0:0:0:70:Cymbal.wav
-192,192,9172,1,0,0:0:0:70:Tom2.wav
-448,192,9172,1,0,0:0:0:70:
+448,192,8782,1,0,0:0:0:70:Cymbal.wav
+448,192,9172,1,0,0:0:0:70:Tom2.wav
+192,192,9172,1,0,0:0:0:70:
 320,192,9367,1,0,0:0:0:70:Tom3.wav
 64,192,9561,1,0,0:0:0:70:Kick.wav
-192,192,9561,1,0,0:0:0:70:Cymbal.wav
-320,192,9951,1,0,0:0:0:70:Snare Normal.wav
-448,192,10146,1,0,0:0:0:70:Snare Normal.wav
+448,192,9561,1,0,0:0:0:70:Cymbal.wav
+192,192,9951,1,0,0:0:0:70:Snare Normal.wav
+320,192,10146,1,0,0:0:0:70:Snare Normal.wav
 64,192,10341,1,0,0:0:0:70:Snare Normal.wav
 192,192,10438,1,0,0:0:0:70:Snare Normal.wav
 320,192,10535,1,0,0:0:0:70:Kick.wav
 448,192,10535,1,0,0:0:0:70:Cymbal.wav
-64,192,10828,1,0,0:0:0:70:Kick.wav
-192,192,10828,1,0,0:0:0:70:Tom2.wav
+320,192,10828,1,0,0:0:0:70:Kick.wav
+64,192,10828,1,0,0:0:0:70:Tom2.wav
 192,192,11120,1,0,0:0:0:70:Kick.wav
-320,192,11120,1,0,0:0:0:70:Tom3.wav
+448,192,11120,1,0,0:0:0:70:Tom3.wav
 64,192,11315,1,0,0:0:0:70:Snare Normal.wav
-448,192,11315,128,0,11899:0:0:0:70:Cymbal.wav
+320,192,11315,128,0,11899:0:0:0:70:Cymbal.wav
 192,192,11509,1,0,0:0:0:70:Kick.wav
-320,192,11704,1,0,0:0:0:70:Snare Normal.wav
+448,192,11704,1,0,0:0:0:70:Snare Normal.wav
 64,192,11899,1,0,0:0:0:70:Kick.wav
 192,192,11899,128,0,12483:0:0:0:70:Cymbal.wav
 448,192,12289,1,0,0:0:0:70:Kick.wav
