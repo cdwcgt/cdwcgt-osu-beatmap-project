@@ -13,11 +13,10 @@ SpecialStyle: 0
 WidescreenStoryboard: 1
 
 [Editor]
-Bookmarks: 11315,79886
 DistanceSpacing: 0.7
 BeatDivisor: 4
 GridSize: 16
-TimelineZoom: 1.4
+TimelineZoom: 1.5
 
 [Metadata]
 Title:Tenkuu Cafeteria (TV Size)
@@ -612,8 +611,8 @@ Sample,88457,0,"Snare Normal.wav",70
 192,192,78912,1,0,0:0:0:70:
 192,192,79107,1,0,0:0:0:70:Kick.wav
 320,192,79107,1,0,0:0:0:70:
-64,192,79399,1,0,0:0:0:70:Kick.wav
-192,192,79399,1,0,0:0:0:70:Tom2.wav
+320,192,79399,1,0,0:0:0:70:Kick.wav
+448,192,79399,1,0,0:0:0:70:Tom2.wav
 64,192,79691,1,0,0:0:0:70:Kick.wav
 448,192,79691,1,0,0:0:0:70:Tom3.wav
 192,192,79886,1,0,0:0:0:70:Kick.wav
@@ -647,7 +646,6 @@ Sample,88457,0,"Snare Normal.wav",70
 448,192,83393,1,0,0:0:0:70:Snare Normal.wav
 64,192,83587,1,0,0:0:0:70:
 320,192,83782,1,0,0:0:0:70:Kick.wav
-448,192,83782,1,0,0:0:0:70:
 192,192,83977,1,0,0:0:0:70:
 64,192,84172,1,0,0:0:0:70:Snare Clap.wav
 320,192,84172,1,0,0:0:0:70:Snare Normal.wav
