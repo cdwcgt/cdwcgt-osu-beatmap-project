@@ -19,14 +19,14 @@ GridSize: 16
 TimelineZoom: 1.9
 
 [Metadata]
-Title:Crystar
-TitleUnicode:Crystar
+Title:Crystar (feat. Katali)
+TitleUnicode:Crystar (feat. Katali)
 Artist:Sakuzyo
 ArtistUnicode:削除
 Creator:[RT]Alleyne
 Version:Muzukashii
 Source:
-Tags:Calvaria,-Timerains-,Hidden is fun,iamgqr,MEIDAN,Crystar,Madoka2574,cdwcgt
+Tags:Calvaria,-Timerains-,Crystallized-,Hidden is fun,iamgqr,MEIDAN,Crystar,Madoka2574,cdwcgt,electronic
 BeatmapID:2814593
 BeatmapSetID:1360135
 
@@ -55,8 +55,9 @@ SliderTickRate:1
 12575,-100,4,1,0,50,0,0
 22775,-100,4,1,0,20,0,0
 41375,-100,4,1,0,65,0,0
-60575,-100,4,1,0,20,0,0
-67775,-100,4,1,0,40,0,0
+60575,300,3,1,0,20,1,0
+67775,-100,3,1,0,40,0,0
+77975,300,4,1,0,40,1,0
 82775,-100,4,1,0,70,0,1
 121175,-100,4,1,0,50,0,0
 
