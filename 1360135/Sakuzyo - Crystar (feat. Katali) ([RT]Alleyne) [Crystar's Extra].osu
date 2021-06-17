@@ -1,0 +1,65 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 81875
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+EpilepsyWarning: 1
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1.4
+BeatDivisor: 2
+GridSize: 8
+TimelineZoom: 1.4
+
+[Metadata]
+Title:Crystar (feat. Katali)
+TitleUnicode:Crystar (feat. Katali)
+Artist:Sakuzyo
+ArtistUnicode:削除
+Creator:[RT]Alleyne
+Version:Crystar's Extra
+Source:
+Tags:Calvaria,-Timerains-,Crystallized-,Hidden is fun,iamgqr,MEIDAN,Crystar,Madoka2574,cdwcgt,electronic
+BeatmapID:3052522
+BeatmapSetID:1360135
+
+[Difficulty]
+HPDrainRate:3.5
+CircleSize:3.3
+OverallDifficulty:4
+ApproachRate:6
+SliderMultiplier:0.800000005960464
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.png",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+1775,300,4,2,1,100,1,0
+22175,-100,4,2,1,100,0,0
+60575,300,3,1,0,20,1,0
+73175,300,4,1,0,40,1,0
+82775,-100,4,2,1,100,0,1
+121175,-100,4,2,1,100,0,0
+
+
+[Colours]
+Combo1 : 174,210,247
+Combo2 : 44,117,216
+
+[HitObjects]

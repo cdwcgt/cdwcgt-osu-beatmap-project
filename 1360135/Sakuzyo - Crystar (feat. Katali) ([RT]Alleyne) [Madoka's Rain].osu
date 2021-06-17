@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 81875
 Countdown: 0
-SampleSet: None
+SampleSet: Normal
 StackLeniency: 0.7
 Mode: 2
 LetterboxInBreaks: 0
@@ -52,7 +52,7 @@ SliderTickRate:2
 //Storyboard Sound Samples
 
 [TimingPoints]
-2975,300,4,1,0,5,1,0
+1775,300,4,1,0,5,1,0
 2975,-125,4,1,0,5,0,0
 12575,-111.111111111111,4,1,0,5,0,0
 22175,-166.666666666666,4,1,0,5,0,0
@@ -62,7 +62,7 @@ SliderTickRate:2
 41375,-100,4,1,0,5,0,0
 60575,300,3,1,0,5,1,0
 60575,-125,3,1,0,5,0,0
-77975,300,4,1,0,5,1,0
+73175,300,4,1,0,5,1,0
 82775,-100,4,1,0,5,0,1
 121175,-125,4,1,0,5,0,0
 
