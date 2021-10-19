@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 58011
 Countdown: 0
-SampleSet: Normal
+SampleSet: Soft
 StackLeniency: 0.5
 Mode: 0
 LetterboxInBreaks: 0
