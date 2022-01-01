@@ -5,18 +5,19 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 81875
 Countdown: 0
-SampleSet: Normal
+SampleSet: None
 StackLeniency: 0.7
-Mode: 1
+Mode: 2
 LetterboxInBreaks: 0
 EpilepsyWarning: 1
 WidescreenStoryboard: 1
 
 [Editor]
-DistanceSpacing: 0.7
+Bookmarks: 12575,22175,41375,60575,67775,77975,82775,101975,121175,130775
+DistanceSpacing: 0.8
 BeatDivisor: 4
-GridSize: 16
-TimelineZoom: 1.5
+GridSize: 32
+TimelineZoom: 1.9
 
 [Metadata]
 Title:Crystar (feat. Katali)
@@ -24,24 +25,25 @@ TitleUnicode:Crystar (feat. Katali)
 Artist:Sakuzyo
 ArtistUnicode:削除
 Creator:[RT]Alleyne
-Version:???'s Kantan
+Version:???'s Overdoes
 Source:
 Tags:Calvaria,-Timerains-,Hidden is fun,iamgqr,MEIDAN,Crystar,Madoka2574,cdwcgt
-BeatmapID:3052526
+BeatmapID:3276194
 BeatmapSetID:1360135
 
 [Difficulty]
 HPDrainRate:6
 CircleSize:4
-OverallDifficulty:6
-ApproachRate:5
-SliderMultiplier:1.4
-SliderTickRate:1
+OverallDifficulty:9
+ApproachRate:9
+SliderMultiplier:1.8
+SliderTickRate:2
 
 [Events]
 //Background and Video events
 0,0,"BG.png",0,0
 //Break Periods
+2,22375,31175
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
@@ -50,16 +52,19 @@ SliderTickRate:1
 //Storyboard Sound Samples
 
 [TimingPoints]
-1775,300,4,1,0,100,1,0
-3575,-100,4,1,0,20,0,0
-12575,-100,4,1,0,50,0,0
-22775,-100,4,1,0,20,0,0
-41375,-100,4,1,0,65,0,0
-60575,300,3,1,0,20,1,0
-67775,-100,3,1,0,40,0,0
-73175,300,4,1,0,40,1,0
-82775,-100,4,1,0,70,0,1
-121175,-100,4,1,0,50,0,0
+1775,300,4,1,0,5,1,0
+2975,-125,4,1,0,5,0,0
+12575,-111.111111111111,4,1,0,5,0,0
+22175,-166.666666666666,4,1,0,5,0,0
+36575,-142.857142857142,4,1,0,5,0,0
+38975,-125,4,1,0,5,0,0
+40175,-111.111111111111,4,1,0,5,0,0
+41375,-100,4,1,0,5,0,0
+60575,300,3,1,0,5,1,0
+60575,-125,3,1,0,5,0,0
+73175,300,4,1,0,5,1,0
+82775,-100,4,1,0,5,0,1
+121175,-125,4,1,0,5,0,0
 
 
 [HitObjects]

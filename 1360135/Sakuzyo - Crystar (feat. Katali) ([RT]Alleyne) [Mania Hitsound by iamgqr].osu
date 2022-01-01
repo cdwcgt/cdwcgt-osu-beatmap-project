@@ -7,9 +7,10 @@ PreviewTime: 81875
 Countdown: 0
 SampleSet: Normal
 StackLeniency: 0.7
-Mode: 0
+Mode: 3
 LetterboxInBreaks: 0
 EpilepsyWarning: 1
+SpecialStyle: 0
 WidescreenStoryboard: 1
 
 [Editor]
@@ -24,16 +25,16 @@ TitleUnicode:Crystar (feat. Katali)
 Artist:Sakuzyo
 ArtistUnicode:削除
 Creator:[RT]Alleyne
-Version:STD & CTB Hitsound by Calvaria
+Version:Mania Hitsound by iamgqr
 Source:
 Tags:Calvaria,-Timerains-,Crystallized-,Hidden is fun,iamgqr,MEIDAN,Crystar,Madoka2574,cdwcgt,electronic
-BeatmapID:3052528
+BeatmapID:3052524
 BeatmapSetID:1360135
 
 [Difficulty]
-HPDrainRate:3
-CircleSize:3
-OverallDifficulty:3
+HPDrainRate:10
+CircleSize:9
+OverallDifficulty:10
 ApproachRate:5
 SliderMultiplier:0.500000005960464
 SliderTickRate:1
