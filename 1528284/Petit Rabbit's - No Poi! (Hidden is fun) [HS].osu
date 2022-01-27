@@ -1,0 +1,80 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 60501
+Countdown: 0
+SampleSet: None
+StackLeniency: 0.7
+Mode: 3
+LetterboxInBreaks: 0
+SpecialStyle: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 0.8
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.1
+
+[Metadata]
+Title:No Poi!
+TitleUnicode:ノーポイッ！
+Artist:Petit Rabbit's
+ArtistUnicode:Petit Rabbit's
+Creator:Hidden is fun
+Version:HS
+Source:ご注文はうさぎですか？？
+Tags:manga time kirara Gochuumon wa Usagi desuka?? Gochiusa opening Is the order a rabbit?? hoto cocoa sakura ayane kafuu chino minase inori tedeza rize taneda risa ujimatsu chiya satou satomi kirima syaro uchida maaya season 2 TV Size ごちうさ 佐倉綾音 水瀬いのり 種田梨沙 佐藤聡美 内田真礼 ココア チノ リゼ シャロ 千夜
+BeatmapID:3438580
+BeatmapSetID:1528284
+
+[Difficulty]
+HPDrainRate:8
+CircleSize:7
+OverallDifficulty:8
+ApproachRate:5
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"BG.jpg",0,0
+Video,-643,"NCOP.mp4"
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+407,379.746835443038,4,2,0,30,1,0
+61166,-100,4,2,0,30,0,1
+86799,-100,4,2,0,30,0,0
+
+
+[HitObjects]
+109,192,4963,5,0,0:0:0:40:
+64,192,6293,1,0,0:0:0:0:
+64,192,9331,1,0,0:0:0:0:
+64,192,12369,1,0,0:0:0:0:
+36,192,15596,1,0,0:0:0:0:
+109,192,15786,1,0,0:0:0:0:
+64,192,16166,1,0,0:0:0:0:
+109,192,16356,1,0,0:0:0:0:
+64,192,16736,1,0,0:0:0:0:
+109,192,16925,1,0,0:0:0:0:
+109,192,17305,1,0,0:0:0:0:
+109,192,17685,1,0,0:0:0:0:
+109,192,17875,1,0,0:0:0:0:
+36,192,18634,1,0,0:0:0:0:
+36,192,24710,1,0,0:0:0:0:
+36,192,29077,1,0,0:0:0:0:
+36,192,29457,1,0,0:0:0:0:
+36,192,29837,1,0,0:0:0:0:
+36,192,30027,1,0,0:0:0:0:
+36,192,30786,1,0,0:0:0:0:
+36,192,33824,1,0,0:0:0:0:
