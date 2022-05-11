@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 81875
 Countdown: 0
-SampleSet: None
+SampleSet: Normal
 StackLeniency: 0.7
 Mode: 2
 LetterboxInBreaks: 0
@@ -26,8 +26,8 @@ Artist:Sakuzyo
 ArtistUnicode:削除
 Creator:[RT]Alleyne
 Version:???'s Overdoes
-Source:
-Tags:Calvaria,-Timerains-,Hidden is fun,iamgqr,MEIDAN,Crystar,Madoka2574,cdwcgt
+Source:CRYSTAR
+Tags:
 BeatmapID:3276194
 BeatmapSetID:1360135
 
@@ -43,7 +43,6 @@ SliderTickRate:2
 //Background and Video events
 0,0,"BG.png",0,0
 //Break Periods
-2,22375,31175
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
