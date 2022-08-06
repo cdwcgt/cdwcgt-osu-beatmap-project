@@ -1,9 +1,9 @@
 osu file format v14
 
 [General]
-AudioFilename: audio.mp3
+AudioFilename: audio.ogg
 AudioLeadIn: 0
-PreviewTime: 60596
+PreviewTime: 60501
 Countdown: 0
 SampleSet: Soft
 StackLeniency: 0.7
@@ -19,14 +19,14 @@ GridSize: 4
 TimelineZoom: 1.5
 
 [Metadata]
-Title:No Poi!
-TitleUnicode:ノーポイッ！
+Title:No Poi! (TV Size)
+TitleUnicode:ノーポイッ！ (TV Size)
 Artist:Petit Rabbit's
 ArtistUnicode:Petit Rabbit's
 Creator:Hidden is fun
 Version:Alleyne's Insane
 Source:ご注文はうさぎですか？？
-Tags:manga time kirara Gochuumon wa Usagi desuka?? Gochiusa opening Is the order a rabbit?? hoto cocoa sakura ayane kafuu chino minase inori tedeza rize taneda risa ujimatsu chiya satou satomi kirima syaro uchida maaya season 2 TV Size ごちうさ 佐倉綾音 水瀬いのり 種田梨沙 佐藤聡美 内田真礼 ココア チノ リゼ シャロ 千夜
+Tags:[rt]alleyne alleyne cdwcgt ml-ysg manga time kirara Gochuumon wa Usagi desuka?? Gochiusa opening Is the order a rabbit?? hoto cocoa sakura ayane kafuu chino minase inori tedeza rize taneda risa ujimatsu chiya satou satomi kirima syaro uchida maaya season 2 TV Size ごちうさ 佐倉綾音 水瀬いのり 種田梨沙 佐藤聡美 内田真礼 ココア チノ リゼ シャロ 千夜
 BeatmapID:3126442
 BeatmapSetID:1528284
 
@@ -41,7 +41,7 @@ SliderTickRate:1
 [Events]
 //Background and Video events
 0,0,"BG.jpg",0,0
-Video,-650,"NCOP.mp4"
+Video,-643,"NCOP.mp4"
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)

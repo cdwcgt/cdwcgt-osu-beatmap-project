@@ -1,7 +1,7 @@
 osu file format v14
 
 [General]
-AudioFilename: audio.mp3
+AudioFilename: audio.ogg
 AudioLeadIn: 0
 PreviewTime: 60501
 Countdown: 0
@@ -19,14 +19,14 @@ GridSize: 4
 TimelineZoom: 2.1
 
 [Metadata]
-Title:No Poi!
-TitleUnicode:ノーポイッ！
+Title:No Poi! (TV Size)
+TitleUnicode:ノーポイッ！ (TV Size)
 Artist:Petit Rabbit's
 ArtistUnicode:Petit Rabbit's
 Creator:Hidden is fun
 Version:Easy
 Source:ご注文はうさぎですか？？
-Tags:manga time kirara Gochuumon wa Usagi desuka?? Gochiusa opening Is the order a rabbit?? hoto cocoa sakura ayane kafuu chino minase inori tedeza rize taneda risa ujimatsu chiya satou satomi kirima syaro uchida maaya season 2 TV Size ごちうさ 佐倉綾音 水瀬いのり 種田梨沙 佐藤聡美 内田真礼 ココア チノ リゼ シャロ 千夜
+Tags:[rt]alleyne alleyne cdwcgt ml-ysg manga time kirara Gochuumon wa Usagi desuka?? Gochiusa opening Is the order a rabbit?? hoto cocoa sakura ayane kafuu chino minase inori tedeza rize taneda risa ujimatsu chiya satou satomi kirima syaro uchida maaya season 2 TV Size ごちうさ 佐倉綾音 水瀬いのり 種田梨沙 佐藤聡美 内田真礼 ココア チノ リゼ シャロ 千夜
 BeatmapID:3208358
 BeatmapSetID:1528284
 
@@ -66,7 +66,7 @@ Video,-643,"NCOP.mp4"
 64,192,2305,1,0,0:0:0:0:
 448,192,2495,1,0,0:0:0:0:
 192,192,2685,1,0,0:0:0:0:
-64,192,3065,1,0,0:0:0:0:
+448,192,3065,1,0,0:0:0:0:
 320,192,3255,1,0,0:0:0:0:
 64,192,3444,128,0,3824:0:0:0:0:
 192,192,3824,128,0,4204:0:0:0:0:
