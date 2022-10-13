@@ -1,0 +1,14 @@
+﻿FormatVersion: 7
+Name: "CharacterGenerate 1"
+Script: "CharacterGenerate"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  d0baafc5951c40f6b6d2b98596e3884f:
+    Name: "Foreground"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

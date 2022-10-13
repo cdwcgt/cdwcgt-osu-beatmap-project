@@ -1,0 +1,19 @@
+﻿FormatVersion: 7
+Name: "Backgroud 1"
+Script: "Backgroud"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  08cb27aed1e64b4bbe57ead32e5c21cc:
+    Name: "background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  49d6efd3dc2c4a7a846adcdf03a41691:
+    Name: "Foreground"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
