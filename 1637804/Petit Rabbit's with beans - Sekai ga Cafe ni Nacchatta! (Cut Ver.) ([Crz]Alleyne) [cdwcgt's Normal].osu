@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 76574
 Countdown: 0
-SampleSet: Normal
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 3
 LetterboxInBreaks: 0
@@ -23,7 +23,7 @@ Title:Sekai ga Cafe ni Nacchatta! (Cut Ver.)
 TitleUnicode:セカイがカフェになっちゃった! (Cut Ver.)
 Artist:Petit Rabbit's with beans
 ArtistUnicode:Petit Rabbit's with beans
-Creator:[RT]Alleyne
+Creator:[Crz]Alleyne
 Version:cdwcgt's Normal
 Source:ご注文はうさぎですか？？ ～Dear My Sister～
 Tags:anime japanese gochuumon wa usagi desu ka gochiusa movie sakura ayane 佐倉綾音 hoto cocoa 保登心愛 ココア minase inori 水瀬いのり kafuu chino 香風智乃 チノ taneda risa 種田梨沙 tedeza rize 天々座理世 リゼ satou satomi 佐藤聡美 ujimatsu chiya 宇治松千夜 uchida maaya 内田真礼 kirima syaro 桐間紗路 シャロ tokui sora 徳井青空 jouga maya 条河麻耶 マヤ murakawa rie 村川梨衣 natsu megumi 奈津恵 メグ CloudSplash16 ed ending hidden is fun cdwcgt
@@ -31,9 +31,9 @@ BeatmapID:3343002
 BeatmapSetID:1637804
 
 [Difficulty]
-HPDrainRate:8
+HPDrainRate:7
 CircleSize:4
-OverallDifficulty:8
+OverallDifficulty:7
 ApproachRate:5
 SliderMultiplier:1.4
 SliderTickRate:1
@@ -48,7 +48,6 @@ SliderTickRate:1
 //Storyboard Layer 3 (Foreground)
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
-
 Sample,11448,0,"Tom1.wav",50
 Sample,19992,0,"Hat Close.wav",60
 Sample,20752,0,"Hat Close.wav",60
@@ -121,15 +120,16 @@ Sample,136005,0,"Snare.wav",60
 
 [TimingPoints]
 4423,379.746835443038,4,2,1,50,1,0
-77334,-100.0,4,2,1,50,0,1
-88726,-100.0,4,2,1,50,0,0
-89486,-100.0,4,2,1,50,0,1
-109233,-100.0,4,2,1,50,0,0
-124422,-100.0,4,2,1,50,0,1
-136574,-100.0,4,2,1,50,0,0
+77334,-100,4,2,1,50,0,1
+88726,-100,4,2,1,50,0,0
+89486,-100,4,2,1,50,0,1
+109233,-100,4,2,1,50,0,0
+124422,-100,4,2,1,50,0,1
+136574,-100,4,2,1,50,0,0
+
 
 [HitObjects]
-192,192,1954,1,0,0:0:0:0:
+192,192,1954,5,0,0:0:0:0:
 64,192,2144,1,0,0:0:0:0:
 320,192,2334,1,0,0:0:0:0:
 448,192,2524,1,0,0:0:0:0:
