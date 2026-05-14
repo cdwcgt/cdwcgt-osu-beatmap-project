@@ -1,7 +1,7 @@
 osu file format v14
 
 [General]
-AudioFilename: audio[drum].mp3
+AudioFilename: audio [drums].mp3
 AudioLeadIn: 0
 PreviewTime: 126570
 Countdown: 0
