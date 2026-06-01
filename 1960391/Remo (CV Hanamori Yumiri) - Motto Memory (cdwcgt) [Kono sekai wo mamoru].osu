@@ -27,7 +27,7 @@ ArtistUnicode:リモ (CV:花守ゆみり)
 Creator:cdwcgt
 Version:Kono sekai wo mamoru
 Source:ガラスの花と壊す世界
-Tags:
+Tags:pop japanese anime GARAKOWA Glass no Hana to Kowasu Sekai Garasu Restore the World Vitreous Flower Destroy
 BeatmapID:4062575
 BeatmapSetID:1960391
 
@@ -1004,8 +1004,8 @@ Combo4 : 242,24,57
 192,192,126353,1,0,2:0:0:5:
 448,192,126353,1,0,2:0:0:5:
 320,192,126353,1,0,2:0:0:5:
-64,192,126570,128,0,127440:2:0:0:5:
-192,192,127005,128,0,127440:2:0:0:5:
+64,192,126570,128,0,127331:2:0:0:5:
+192,192,127005,128,0,127331:2:0:0:5:
 448,192,127223,1,0,2:0:0:5:
 320,192,127331,1,0,2:0:0:5:
 448,192,127440,128,0,127766:2:0:0:5:
