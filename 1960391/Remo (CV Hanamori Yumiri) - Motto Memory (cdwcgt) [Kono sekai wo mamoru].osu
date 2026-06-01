@@ -1,7 +1,7 @@
 osu file format v14
 
 [General]
-AudioFilename: audio.mp3
+AudioFilename: audio.ogg
 AudioLeadIn: 0
 PreviewTime: 65701
 Countdown: 0
